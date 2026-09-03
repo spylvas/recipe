@@ -1,5 +1,8 @@
-### This is a LOCAL change :)
-# recipe
-line 2 changed remotely
-This is training github repo
-### This is a REMOTE change :O
+# Header 1
+### Header 3
+
+1. This is first.
+2. This is second, but ***important***.
+3. This is ___not so important___.
+
+![Recipe image](recipe.jpg)
